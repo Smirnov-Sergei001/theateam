@@ -67,7 +67,7 @@ console.log(black);
               return number;
           }    
    }
-   console.log(fizzbuzz(5));
+   console.log(fizzbuzz(121));
 
    //task2
 
@@ -111,7 +111,7 @@ function fib(number){
     }return c;
 };
 
-console.log(fib(7));
+console.log(fib(5));
 // task3
 
 function digitSumm(number) {
